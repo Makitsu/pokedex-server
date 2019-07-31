@@ -1,0 +1,349 @@
+[{"username": "Maxime", "password": "test", "pokemons" :  [
+  {
+    "dex": 1,
+    "name": "Bulbasaur",
+    "animationTime": [
+      1.6667,
+      0.6667,
+      1.6667,
+      1.8333,
+      0,
+      2.1667,
+      1.4,
+      1.466667
+    ],
+    "height": 0.7,
+    "modelHeight": 0.7,
+    "kmBuddyDistance": 3,
+    "weight": 6.9,
+    "modelScale": 1.09,
+    "maxCP": 1115,
+    "buddySize": {
+      "id": "BUDDY_MEDIUM",
+      "name": "Medium"
+    },
+    "cinematicMoves": [
+      {
+        "name": "Sludge Bomb",
+        "id": "SLUDGE_BOMB"
+      },
+      {
+        "name": "Seed Bomb",
+        "id": "SEED_BOMB"
+      },
+      {
+        "name": "Power Whip",
+        "id": "POWER_WHIP"
+      }
+    ],
+    "quickMoves": [
+      {
+        "name": "Vine Whip Fast",
+        "id": "VINE_WHIP_FAST"
+      },
+      {
+        "name": "Tackle Fast",
+        "id": "TACKLE_FAST"
+      }
+    ],
+    "family": {
+      "id": "FAMILY_BULBASAUR",
+      "name": "Bulbasaur"
+    },
+    "stats": {
+      "baseAttack": 118,
+      "baseDefense": 111,
+      "baseStamina": 128
+    },
+    "types": [
+      {
+        "id": "POKEMON_TYPE_GRASS",
+        "name": "Grass"
+      },
+      {
+        "id": "POKEMON_TYPE_POISON",
+        "name": "Poison"
+      }
+    ],
+    "encounter": {
+      "attackProbability": 0.1,
+      "attackTimer": 29,
+      "baseFleeRate": 0.1,
+      "baseCaptureRate": 0.2,
+      "cameraDistance": 3.75,
+      "collisionRadius": 0.3815,
+      "dodgeDistance": 1,
+      "dodgeProbability": 0.15,
+      "jumpTime": 1.15,
+      "maxPokemonActionFrequency": 1.6,
+      "minPokemonActionFrequency": 0.2,
+      "movementType": {
+        "name": "Movement Jump",
+        "id": "MOVEMENT_JUMP"
+      },
+      "gender": {
+        "malePercent": 0.875,
+        "femalePercent": 0.125
+      }
+    },
+    "camera": {
+      "cylinderRadius": 0.5,
+      "diskRadius": 0.5723,
+      "shoulderModeScale": 0.5
+    },
+    "evolution": {
+      "futureBranches": [
+        {
+          "name": "Ivysaur",
+          "id": "IVYSAUR",
+          "futureBranches": [
+            {
+              "name": "Venusaur",
+              "id": "VENUSAUR",
+              "costToEvolve": {
+                "candyCost": 100
+              }
+            }
+          ],
+          "costToEvolve": {
+            "candyCost": 25
+          }
+        }
+      ]
+    },
+    "id": "BULBASAUR",
+    "forms": []
+  },
+  {
+    "dex": 1,
+    "name": "Bulbasaur",
+    "animationTime": [
+      1.6667,
+      0.6667,
+      1.6667,
+      1.8333,
+      0,
+      2.1667,
+      1.4,
+      1.466667
+    ],
+    "height": 0.7,
+    "modelHeight": 0.7,
+    "kmBuddyDistance": 3,
+    "weight": 6.9,
+    "modelScale": 1.09,
+    "maxCP": 1115,
+    "buddySize": {
+      "id": "BUDDY_MEDIUM",
+      "name": "Medium"
+    },
+    "cinematicMoves": [
+      {
+        "name": "Sludge Bomb",
+        "id": "SLUDGE_BOMB"
+      },
+      {
+        "name": "Seed Bomb",
+        "id": "SEED_BOMB"
+      },
+      {
+        "name": "Power Whip",
+        "id": "POWER_WHIP"
+      }
+    ],
+    "quickMoves": [
+      {
+        "name": "Vine Whip Fast",
+        "id": "VINE_WHIP_FAST"
+      },
+      {
+        "name": "Tackle Fast",
+        "id": "TACKLE_FAST"
+      }
+    ],
+    "family": {
+      "id": "FAMILY_BULBASAUR",
+      "name": "Bulbasaur"
+    },
+    "stats": {
+      "baseAttack": 118,
+      "baseDefense": 111,
+      "baseStamina": 128
+    },
+    "types": [
+      {
+        "id": "POKEMON_TYPE_GRASS",
+        "name": "Grass"
+      },
+      {
+        "id": "POKEMON_TYPE_POISON",
+        "name": "Poison"
+      }
+    ],
+    "encounter": {
+      "attackProbability": 0.1,
+      "attackTimer": 29,
+      "baseFleeRate": 0.1,
+      "baseCaptureRate": 0.2,
+      "cameraDistance": 3.75,
+      "collisionRadius": 0.3815,
+      "dodgeDistance": 1,
+      "dodgeProbability": 0.15,
+      "jumpTime": 1.15,
+      "maxPokemonActionFrequency": 1.6,
+      "minPokemonActionFrequency": 0.2,
+      "movementType": {
+        "name": "Movement Jump",
+        "id": "MOVEMENT_JUMP"
+      },
+      "gender": {
+        "malePercent": 0.875,
+        "femalePercent": 0.125
+      }
+    },
+    "camera": {
+      "cylinderRadius": 0.5,
+      "diskRadius": 0.5723,
+      "shoulderModeScale": 0.5
+    },
+    "evolution": {
+      "futureBranches": [
+        {
+          "name": "Ivysaur",
+          "id": "IVYSAUR",
+          "futureBranches": [
+            {
+              "name": "Venusaur",
+              "id": "VENUSAUR",
+              "costToEvolve": {
+                "candyCost": 100
+              }
+            }
+          ],
+          "costToEvolve": {
+            "candyCost": 25
+          }
+        }
+      ]
+    },
+    "id": "BULBASAUR",
+    "forms": []
+  }
+]},
+  {"username": "Hugo", "password": "test","pokemons": [
+    {
+      "dex": 1,
+      "name": "Bulbasaur",
+      "animationTime": [
+        1.6667,
+        0.6667,
+        1.6667,
+        1.8333,
+        0,
+        2.1667,
+        1.4,
+        1.466667
+      ],
+      "height": 0.7,
+      "modelHeight": 0.7,
+      "kmBuddyDistance": 3,
+      "weight": 6.9,
+      "modelScale": 1.09,
+      "maxCP": 1115,
+      "buddySize": {
+        "id": "BUDDY_MEDIUM",
+        "name": "Medium"
+      },
+      "cinematicMoves": [
+        {
+          "name": "Sludge Bomb",
+          "id": "SLUDGE_BOMB"
+        },
+        {
+          "name": "Seed Bomb",
+          "id": "SEED_BOMB"
+        },
+        {
+          "name": "Power Whip",
+          "id": "POWER_WHIP"
+        }
+      ],
+      "quickMoves": [
+        {
+          "name": "Vine Whip Fast",
+          "id": "VINE_WHIP_FAST"
+        },
+        {
+          "name": "Tackle Fast",
+          "id": "TACKLE_FAST"
+        }
+      ],
+      "family": {
+        "id": "FAMILY_BULBASAUR",
+        "name": "Bulbasaur"
+      },
+      "stats": {
+        "baseAttack": 118,
+        "baseDefense": 111,
+        "baseStamina": 128
+      },
+      "types": [
+        {
+          "id": "POKEMON_TYPE_GRASS",
+          "name": "Grass"
+        },
+        {
+          "id": "POKEMON_TYPE_POISON",
+          "name": "Poison"
+        }
+      ],
+      "encounter": {
+        "attackProbability": 0.1,
+        "attackTimer": 29,
+        "baseFleeRate": 0.1,
+        "baseCaptureRate": 0.2,
+        "cameraDistance": 3.75,
+        "collisionRadius": 0.3815,
+        "dodgeDistance": 1,
+        "dodgeProbability": 0.15,
+        "jumpTime": 1.15,
+        "maxPokemonActionFrequency": 1.6,
+        "minPokemonActionFrequency": 0.2,
+        "movementType": {
+          "name": "Movement Jump",
+          "id": "MOVEMENT_JUMP"
+        },
+        "gender": {
+          "malePercent": 0.875,
+          "femalePercent": 0.125
+        }
+      },
+      "camera": {
+        "cylinderRadius": 0.5,
+        "diskRadius": 0.5723,
+        "shoulderModeScale": 0.5
+      },
+      "evolution": {
+        "futureBranches": [
+          {
+            "name": "Ivysaur",
+            "id": "IVYSAUR",
+            "futureBranches": [
+              {
+                "name": "Venusaur",
+                "id": "VENUSAUR",
+                "costToEvolve": {
+                  "candyCost": 100
+                }
+              }
+            ],
+            "costToEvolve": {
+              "candyCost": 25
+            }
+          }
+        ]
+      },
+      "id": "BULBASAUR",
+      "forms": []
+    }
+  ] }]
